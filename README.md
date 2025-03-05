@@ -11,7 +11,8 @@ Steps in creating a GitHub page:
 4. Go to <GitHub Classroom name>.github.io/<repository name>/
 
 What are your key takeaways from this exercise?
-- 
+- In this exercise, I learned how to use GET and POST requests in web servers to write to and read from files to display them in the browser.
 
 References:
-- 
+- [Read Files in JS](https://nodejs.org/en/learn/manipulating-files/reading-files-with-nodejs)
+- [Split File Lines in JS](https://www.30secondsofcode.org/js/s/read-file-lines/)
